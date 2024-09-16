@@ -1,0 +1,13 @@
+/* Dropdown Menu Styles */
+.navbar .dropdown-menu {
+    border-radius: 0;
+  }
+  
+  .navbar .dropdown-menu .dropdown-item {
+    color: #333;
+  }
+  
+  .navbar .dropdown-menu .dropdown-item:hover {
+    background-color: #f8f9fa;
+  }
+  
