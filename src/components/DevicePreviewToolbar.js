@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { FaDesktop, FaTabletAlt, FaMobileAlt } from 'react-icons/fa'; // Import icons
 import './DevicePreviewToolbar.css';
 
