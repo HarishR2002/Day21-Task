@@ -3,8 +3,10 @@
 }
 
 .app-container.desktop {
-  /* Desktop view styles */
+  max-width: 100%; /* Example desktop style */
+  margin: 0 auto;
 }
+
 
 .app-container.tablet {
   /* Tablet view styles */
